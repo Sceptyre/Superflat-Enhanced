@@ -1,5 +1,5 @@
 # Superflat Enhanced
-*Shoutout to Mogswamp and IBXToyCat for bringing awareness to this underappreciated gamemode.*
+*Shoutout to Mogswamp and IBXToyCat for bringing awareness to this underappreciated gamemode.*  
 After seeing some accomplishments of what can be done in superflat on Java edition, I decided to start work on a small addon to enhance the superflat experience on Bedrock.
 
 ## Features
