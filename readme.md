@@ -4,8 +4,8 @@
 After seeing some accomplishments of what can be done in superflat on Java edition, I decided to start work on a small addon to enhance the superflat experience on Bedrock.
 
 ## Features
-- Added a lava bucket trade for 10 emeralds to the wandering trader. Added to the random special trade table (Packed Ice, Bucket of Fish, etc)
-- Each wandering trader that spawn with the Lava trade can only do it twice.
+- Added a lava bucket trade for 15 emeralds to the wandering trader. Added to the random special trade table (Packed Ice, Bucket of Fish, etc)
+- Each wandering trader that spawn with the Lava trade can only do it once.
 - Addon gives you a single oak sapling, sets you to survival, and deops you (disabled commands)
 - Access to nether via lava bucket as well as cobblestone, various nether farm and crops, enchanting, and alchemy
 
