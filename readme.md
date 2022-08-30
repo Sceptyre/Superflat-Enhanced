@@ -1,5 +1,5 @@
 # Superflat Enhanced
-*Shoutout to [Mogswamp](https://www.youtube.com/c/Mogswamp) and [IBXToyCat](https://www.youtube.com/channel/UC_GQ4mac4oN3wl1UdbFuTEA) for bringing awareness to this underappreciated gamemode.*  
+*Credit to [Mogswamp](https://www.youtube.com/c/Mogswamp) and [IBXToyCat](https://www.youtube.com/channel/UC_GQ4mac4oN3wl1UdbFuTEA) for bringing awareness to this underappreciated gamemode.*  
   
 After seeing some accomplishments of what can be done in superflat on Java edition, I decided to start work on a small addon to enhance the superflat experience on Bedrock.
 
